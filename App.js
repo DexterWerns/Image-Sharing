@@ -56,7 +56,7 @@ export default function App() {
           style={styles.thumbnail}
         />
         <Image
-          source={{ uri: "https://placedog.net/500/281s" }}
+          source={{ uri: "https://www.pngrepo.com/download/353304/swap.png" }}
           style={{ width: 305, height: 150 }}
         />
         <TouchableOpacity
@@ -75,7 +75,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Image
-        source={{ uri: "https://placedog.net/500/281s" }}
+        source={{ uri: "https://www.pngrepo.com/download/353304/swap.png" }}
         style={{ width: 305, height: 150 }}
       />
       <TouchableOpacity
